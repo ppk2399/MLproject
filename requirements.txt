@@ -1,0 +1,5 @@
+pandas # type: ignore
+numpy # type: ignore
+seaborn # type: ignore
+
+'-e .'
